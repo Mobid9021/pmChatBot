@@ -1,6 +1,5 @@
 {
-    "START": "Hi, You can message my owner i.e. [ᴅɪsᴛɪɴᴄᴛɪᴠᴇ](https://t.me/Its_Distinct) with this bot. My owner will reply ur message Soon.. 
-[About Distinctive](buttonurl:https://t.me/DistinctiveLegend)",
+    "START": "Hi, You can message my owner i.e. [ᴅɪsᴛɪɴᴄᴛɪᴠᴇ](https://t.me/Its_Distinct) with this bot. My owner will reply ur message Soon...",
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
     "SENDER": "*Sender:*"
