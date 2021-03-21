@@ -1,6 +1,6 @@
 {
-    "START": "Hi, You can message my owner with this bot. My owner will reply ur message Soon...",
-    "ERROR_REPLY": "*Master, Please reply an message.*",
-    "ERROR_NOTFOUND": "*Master, Message not found in database. Can't reply.*",
-    "SENDER": "*Sender:*"
+    "START": "*Hɪ, Yᴏᴜ Cᴀɴ Mᴇꜱꜱᴀɢᴇ Mʏ Oᴡɴᴇʀ Wɪᴛʜ Tʜɪꜱ Bᴏᴛ. Mʏ Mᴀꜱᴛᴇʀ Wɪʟʟ Rᴇᴘʟʏ Yᴏᴜʀ Mᴇꜱꜱᴀɢᴇ Sᴏᴏɴ...*",
+    "ERROR_REPLY": "*Mᴀꜱᴛᴇʀ, Pʟᴇᴀꜱᴇ Rᴇᴘʟʏ Aɴ Mᴇꜱꜱᴀɢᴇ.*",
+    "ERROR_NOTFOUND": "*Mᴀꜱᴛᴇʀ, Mᴇꜱꜱᴀɢᴇ Nᴏᴛ Fᴏᴜɴᴅ Iɴ Dᴀᴛᴀʙᴀꜱᴇ. Cᴀɴ'ᴛ Rᴇᴘʟʏ.*",
+    "SENDER": "*Sᴇɴᴅᴇʀ:*"
 }
