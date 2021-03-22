@@ -84,7 +84,7 @@ $Bot->on(["animation", "audio", "document", "photo", "sticker", "video", "video_
                 $fid = $query->fetch();
             }
             if (empty($fid)) {
-                $Bot->sendMessage(["chat_id" => $Update["message"]["chat"]["id"], "reply_to_message_id" => $Update["message"]["message_id"], "parse_mode" => "markdown", "text" => $LANG["ERROR_NOTFOUND"]]); 
+                $Bot->sendMessage(["chat_id" => $Update["message"]["chat"]["id"], "reply_to_message_id" => $Update["message"]["message_id"], "parse_mode" => "markdown", "text" => $LANG["HELP"]]); 
                 return;
             }
             
