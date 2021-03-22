@@ -17,6 +17,7 @@ if (file_exists(__DIR__ . '/language/default.json')) {
         "ERROR_REPLY": "*Lütfen bir mesaja yanıt ver.*",
         "ERROR_NOTFOUND": "*Mesaj veritabanında bulunamadı. Yanıt gönderemezsiniz.*",
         "SENDER": "*Gönderen kişi:*"
+	"HELP": "*Oᴋ Lᴇᴛ Mᴇ Hᴇʟᴘ Yᴏᴜ....                             Sᴏ Cʜᴏᴏꜱᴇ Oɴᴇ Oꜰ Tʜᴇ Cᴏᴍᴍᴀɴᴅꜱ Wʜɪᴄʜ Aʀᴇ Aꜱ Fᴏʟʟᴏᴡꜱ:-                             /request - Tᴏ RᴇQᴜᴇꜱᴛ Sᴏᴍᴇᴛʜɪɴɢ.                             /ask - Tᴏ Aꜱᴋ Sᴏᴍᴇᴛʜɪɴɢ.                             /talk - Fᴏʀ A Cᴀꜱᴜᴀʟ Tᴀʟᴋ.                             /spam - Tᴏ Sᴘᴀᴍ, Hᴇɴᴄᴇ Yᴏᴜ Wɪʟʟ Bᴇ Bʟᴏᴄᴋᴇᴅ.*"
     }', true);
 }
 
